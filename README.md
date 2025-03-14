@@ -23,5 +23,5 @@
 - Compete in **more programming challenges**  
 
 ### 📫 Let's Connect!
-[LinkedIn]([#](https://www.linkedin.com/in/islamali11/)) | [Email](mailto:islamali2004111@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/islamali11/)) | [Email](mailto:islamali2004111@gmail.com)
 
