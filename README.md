@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hey there! I'm Islam Ali
 
-<!--
-**IslamAli-0/IslamAli-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Full-Stack .NET Developer** | 🎓 **Computer Science Student**  
+⚡ **Passionate about Problem-Solving & Competitive Programming**  
 
-Here are some ideas to get you started:
+🚀 Building web applications with **ASP.NET, C#, and MVC**  
+🔍 Exploring **Entity Framework, LINQ, and APIs**  
+🤖 Practicing **Data Structures & Algorithms** to improve problem-solving skills  
+🏆 Participating in **Competitive Programming** challenges  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: C#, ASP.NET MVC  
+- **Database**: SQL, MySQL  
+- **Problem-Solving**: C++, C#  
+- **Tools**: Visual Studio, Git, XAMPP  
+
+### 📌 Current Goals:
+- Enhance **.NET & Web Development** expertise  
+- Solve more **DSA problems & participate in coding contests**  
+- Improve **problem-solving skills in C++ & C#**  
+- Learn best practices in **software architecture & APIs**  
+- Compete in **more programming challenges**  
+
+### 📫 Let's Connect!
+[LinkedIn]([#](https://www.linkedin.com/in/islamali11/)) | [Email](mailto:islamali2004111@gmail.com)
+
